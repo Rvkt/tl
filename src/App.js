@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<MainPage />} />
+        <Route path="/tplink/" element={<MainPage />} />
       </Routes>
     </BrowserRouter>
   );
